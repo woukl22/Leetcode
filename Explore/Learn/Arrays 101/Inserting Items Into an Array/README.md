@@ -2,7 +2,7 @@ Arrays 101 - Inserting Items Into an Array
 ---
 - *Basic Array Operations*
 - *Array Insertions*
-- [Duplicate Zeros]()
+- [Duplicate Zeros](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Arrays%20101/Inserting%20Items%20Into%20an%20Array/01_Duplicate%20Zeros.cpp)
 - [Merge Sorted Array]()
 
 <br>
