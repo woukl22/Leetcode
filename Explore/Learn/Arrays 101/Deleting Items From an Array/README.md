@@ -1,7 +1,7 @@
 Arrays 101 - Deleting Items From an Array
 ---
 - *Array Deletions*
-- [Remove Element]()
+- [Remove Element](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Arrays%20101/Deleting%20Items%20From%20an%20Array/01_Remove%20Element.cpp)
 - [Remove Duplicates from Sorted Array]()
 
 <br>
