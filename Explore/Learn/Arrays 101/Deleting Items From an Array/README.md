@@ -1,4 +1,4 @@
-Arrays 101 - Inserting Items Into an Array
+Arrays 101 - Deleting Items From an Array
 ---
 - *Array Deletions*
 - [Remove Element]()
