@@ -2,7 +2,7 @@ Arrays 101 - Deleting Items From an Array
 ---
 - *Array Deletions*
 - [Remove Element](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Arrays%20101/Deleting%20Items%20From%20an%20Array/01_Remove%20Element.cpp)
-- [Remove Duplicates from Sorted Array]()
+- [Remove Duplicates from Sorted Array](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Arrays%20101/Deleting%20Items%20From%20an%20Array/02_Remove%20Duplicates%20from%20Sorted%20Array.cpp)
 
 <br>
 
