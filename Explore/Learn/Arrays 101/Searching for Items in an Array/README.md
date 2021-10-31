@@ -1,8 +1,8 @@
 Arrays 101 - Searching for Items in an Array
 ---
 - *Search in an Array*
-- [Check If N and Its Double Exist]()
-- [Valid Mountain Array]()
+- [Check If N and Its Double Exist](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Arrays%20101/Searching%20for%20Items%20in%20an%20Array/01_Check%20If%20N%20and%20Its%20Double%20Exist.cpp)
+- [Valid Mountain Array](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Arrays%20101/Searching%20for%20Items%20in%20an%20Array/02_Valid%20Mountain%20Array.cpp)
 
 <br>
 
