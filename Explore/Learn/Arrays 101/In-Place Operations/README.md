@@ -6,8 +6,8 @@ Arrays 101 - In-Place Operations
 - [Remove Duplicates from Sorted Array](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Arrays%20101/In-Place%20Operations/02_Remove%20Duplicates%20from%20Sorted%20Array.cpp)
 - *A Better Repeated Deletion Algorithm - Answer*
 - [Move Zeroes](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Arrays%20101/In-Place%20Operations/03_Move%20Zeroes.cpp)
-- [Sort Array By Parity]()
-- [Remove Element]()
+- [Sort Array By Parity](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Arrays%20101/In-Place%20Operations/04_Sort%20Array%20By%20Parity.cpp)
+- [Remove Element](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Arrays%20101/In-Place%20Operations/05_Remove%20Element.cpp)
 
 <br>
 
