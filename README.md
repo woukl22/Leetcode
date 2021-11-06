@@ -1,6 +1,18 @@
 # Leetcode
 This repo is to study data structure, algorithms, and problem solving!!
 
+<br>
+
+Rules
+---
+Studying with following rules.
+<br>
+
+1. Read the text and Summarize concepts I learned. (*In case of Explore Card*)
+2. Solve problem by myself.
+3. If I need help, search concept or functions that seems it should be used first.
+4. If still doesn't solved, search problem directly.
+<br>
 
 Explore
 ---
