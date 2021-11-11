@@ -18,7 +18,7 @@ By completing this chapter, you should be able to answer the following questions
 - *Introduction to Dynamic Array*
 - [Find Pivot Index](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Array%20and%20String/Introduction%20to%20Array/01_Find%20Pivot%20Index.cpp)
 - [Largest Number At Least Twice of Others](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Array%20and%20String/Introduction%20to%20Array/02_Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp)
-- [Plus One]()
+- [Plus One](https://github.com/woukl22/Leetcode/blob/main/Explore/Learn/Array%20and%20String/Introduction%20to%20Array/03_Plus%20One.cpp)
 
 <br>
 
