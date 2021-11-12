@@ -17,7 +17,7 @@ In this card, we will introduce array and string. After finishing this card, you
 
 ### Contents
 1. [Introduction to Array](https://github.com/woukl22/Leetcode/tree/main/Explore/Learn/Array%20and%20String/Introduction%20to%20Array)
-2. [Introduction to 2D Array]()
+2. [Introduction to 2D Array](https://github.com/woukl22/Leetcode/tree/main/Explore/Learn/Array%20and%20String/Introduction%20to%202D%20Array)
 3. [Introduction to String]()
 4. [Two-Pointer Technique]()
 5. [Conclusion]()
