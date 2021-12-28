@@ -24,7 +24,7 @@ Explore
 Subtitle | Title | Chapter | Items | date
 :--- | :--- | :---: | :---: | :---:
 Introduction to Data Structure | [Arrays 101](https://github.com/woukl22/Leetcode/tree/main/Explore/Learn/Arrays%20101) | 6 | 31 | 21.10.24 ~ 21.11.06
-Introduction to Data Structure | [Array and String](https://github.com/woukl22/Leetcode/tree/main/Explore/Learn/Array%20and%20String) | 5 | 29 | 21.11.07 ~
+Introduction to Data Structure | Array and String | 5 | 29 | 
 Introduction to Data Structure | Linked List | 5 | 30 |
 Introduction to Data Structure | Queue & Stack | 5 | 32 |
 Introduction to Data Structure | Hash Table | 5 | 35 |
